@@ -66,7 +66,4 @@ public class AdminTest {
 		assertEquals("1234",admin.getPassword());
 	}
 	
-	
-	
-
 }
