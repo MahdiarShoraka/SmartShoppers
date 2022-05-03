@@ -26,7 +26,7 @@ import java.awt.event.ActionEvent;
 import java.awt.Color;
 
 public class AdminHP extends JFrame {
-
+//test
 	private JPanel contentPane;
 
 	/**
